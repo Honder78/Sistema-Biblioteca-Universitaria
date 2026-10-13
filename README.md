@@ -50,6 +50,20 @@ Pendientes:
 4. Implementación del control de inventarios.  
 5. Documentación inicial en README.md.  
 
+## Modelos UML
+
+- Diagrama de Casos de Uso  
+  ![Diagrama de Casos de Uso](docs/uml/diagrama%20caso%20de%20uso.jpg)
+
+- Diagrama de Actividades  
+  ![Diagrama de Actividades](docs/uml/diagrama%20de%20actividades.jpg)
+
+- Diagrama de Representación Visual  
+  ![Diagrama de Representación Visual](docs/uml/diagrama%20de%20representación%20visual.jpg)
+
+- Diagrama de Secuencias  
+  ![Diagrama de Secuencias](docs/uml/diagrama%20de%20secuencias.jpg)
+
 - Lenguajes de programación y simuladores para pruebas técnicas.
 
 ## Estado actual del proyecto

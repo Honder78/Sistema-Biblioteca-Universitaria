@@ -25,7 +25,7 @@ Se seleccionó una arquitectura cliente-servidor:
 - Visual Paradigm Online para diagramas UML (casos de uso, secuencia, actividades).
 - ## Estado actual del proyecto
 El Sistema de Gestión Bibliotecaria se encuentra en desarrollo con los siguientes avances:
-- Diseño de la base de datos en progreso.
+- Diseño de la base de datos en finalizado.
 - Interfaz de inicio de sesión en construcción.
 - Control de inventarios en desarrollo.
 - Módulo de búsqueda en revisión.

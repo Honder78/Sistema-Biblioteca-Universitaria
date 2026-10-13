@@ -23,6 +23,33 @@ Se seleccionó una arquitectura cliente-servidor:
 - Git y GitHub para control de versiones y gestión de incidencias.
 - GitHub Projects para organización de tareas.
 - Visual Paradigm Online para diagramas UML (casos de uso, secuencia, actividades).
+- ## Estado actual del proyecto
+El Sistema de Gestión Bibliotecaria se encuentra en desarrollo con los siguientes avances:
+- Diseño de la base de datos en progreso.
+- Interfaz de inicio de sesión en construcción.
+- Control de inventarios en desarrollo.
+- Módulo de búsqueda en revisión.
+- Documentación inicial en README.md.
+
+Pendientes:
+- Implementación del menú principal con navegación completa.
+- Funcionalidad de reservas en línea.
+- Alertas automáticas de vencimiento.
+- Pruebas de integración y validación de módulos.
+- Optimización de la interfaz gráfica.
+
+## Organización del sistema
+- **Frontend:** interfaz gráfica para estudiantes y administradores, que incluye login, búsqueda de libros, reservas y alertas de vencimiento.  
+- **Backend:** lógica de negocio, gestión de préstamos y devoluciones, control de inventarios y conexión con la base de datos.  
+- **Comunicación:** el frontend se conecta con el backend mediante servicios REST, garantizando la sincronización de datos y el funcionamiento integrado.
+
+## Registro de cambios
+1. Definición de la arquitectura inicial del sistema.  
+2. Diseño preliminar de la base de datos.  
+3. Desarrollo del módulo de inicio de sesión.  
+4. Implementación del control de inventarios.  
+5. Documentación inicial en README.md.  
+
 - Lenguajes de programación y simuladores para pruebas técnicas.
 
 ## Estado actual del proyecto
